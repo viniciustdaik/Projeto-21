@@ -87,7 +87,7 @@ function draw() {
 	  stroke('darkred');
 	  text("Fim De Jogo.", 350, 350);
 	  fill('cyan')
-	  stroke('lightblue')
+	  stroke('green')
 	  //text("Clique Para Tentar De Novo!", 350, 385);
   }
   console.log(gamestate);
